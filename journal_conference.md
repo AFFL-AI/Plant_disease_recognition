@@ -22,10 +22,13 @@
 | Information Processing in Agriculture    |         |       |         |
 | Plant Phenomics                          |         |       | 1 top   |
 | Phytopathology                           | 4.025   | Q1    | 2 top   |
-| Sensors                                  | 3.576   | Q1    | 3       |
-| Electronics                              | 2.397   | Q2    | 4       |
+| Sensors MDPI                             | 3.576   | Q1    | 3       |
+| Electronics MDPI                         | 2.397   | Q2    | 4       |
 | Planta                                   | 4.116   | Q1    | 2       |
 | Agriculture-Basel                        | 2.925   | Q2    | 3       |
+| Scientific reports                       |         |       |         |
+| Plants MDPI                              |         |       |         |
+
 
 ### Journal related with computer
 | Name                  | IF 2021 | Other | Chinese |
